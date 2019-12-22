@@ -1,3 +1,5 @@
+A small SQL-injection challenge for the HackMe-CTF event at the HM. 
+
 100 - DB für Computerspiele
 ========
 
